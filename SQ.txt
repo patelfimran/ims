@@ -1,2 +1,6 @@
  SELECT * FROM Customers; 
 select table t1 from customer;
+
+
+select table t1 from employees;
+where name="jason";
